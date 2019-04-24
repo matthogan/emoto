@@ -3,6 +3,9 @@ Analyse the emotion in your gmail inbox.
 
 Proxies the artifical intelligence product provided by [Aylien](https://aylien.com).
 
+## Demo
+https://youtu.be/rx7JCZfIH0w
+
 ## Setup
 
 Install the clasp tool.
