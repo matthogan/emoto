@@ -1,0 +1,18 @@
+{
+  "timeZone": "Europe/Dublin",
+  "dependencies": {
+  },
+  "oauthScopes": ["https://www.googleapis.com/auth/gmail.addons.execute", "https://www.googleapis.com/auth/gmail.addons.current.message.metadata", "https://www.googleapis.com/auth/gmail.modify", "https://www.googleapis.com/auth/gmail.addons.current.message.readonly", "https://www.googleapis.com/auth/script.external_request", "https://www.googleapis.com/auth/script.locale"],
+  "gmail": {
+    "name": "Emoto",
+    "logoUrl": "http://codejago.com/emoto/assets/ic_sentiment_satisfied_black_48dp.png",
+    "contextualTriggers": [{
+      "unconditional": {
+      },
+      "onTriggerFunction": "buildAddOn"
+    }],
+    "primaryColor": "#4285F4",
+    "secondaryColor": "#4285F4",
+    "openLinkUrlPrefixes": ["https://mail.google.com/"]
+  }
+}

@@ -1,0 +1,73 @@
+{
+    "text": "The Sistine Chapel is beautiful, but Venice smells really bad",
+    "entities": [
+        {
+            "links": [
+                {
+                    "confidence": 1.17,
+                    "provider": "dbpedia",
+                    "types": [
+                        "http://dbpedia.org/ontology/Place",
+                        "http://schema.org/Place",
+                        "http://dbpedia.org/ontology/PopulatedPlace",
+                        "http://dbpedia.org/ontology/Location",
+                        "http://dbpedia.org/ontology/City",
+                        "http://dbpedia.org/ontology/Settlement"
+                    ],
+                    "uri": "http://dbpedia.org/resource/Venice"
+                }
+            ],
+            "mentions": [
+                {
+                    "confidence": 1.0,
+                    "offset": 37,
+                    "sentiment": {
+                        "confidence": 0.45,
+                        "polarity": "negative"
+                    },
+                    "text": "Venice"
+                }
+            ],
+            "overall_sentiment": {
+                "confidence": 0.45,
+                "polarity": "negative"
+            },
+            "type": "Location"
+        },
+        {
+            "links": [
+                {
+                    "confidence": 0.05,
+                    "provider": "dbpedia",
+                    "types": [
+                        "http://dbpedia.org/ontology/Place",
+                        "http://dbpedia.org/ontology/Museum",
+                        "http://dbpedia.org/ontology/Chapel",
+                        "http://schema.org/Place",
+                        "http://dbpedia.org/ontology/ReligiousBuilding",
+                        "http://dbpedia.org/ontology/ArchitecturalStructure",
+                        "http://dbpedia.org/ontology/Location",
+                        "http://dbpedia.org/ontology/Building"
+                    ],
+                    "uri": "http://dbpedia.org/resource/Sistine_Chapel"
+                }
+            ],
+            "mentions": [
+                {
+                    "confidence": 1.0,
+                    "offset": 4,
+                    "sentiment": {
+                        "confidence": 0.6,
+                        "polarity": "positive"
+                    },
+                    "text": "Sistine Chapel"
+                }
+            ],
+            "overall_sentiment": {
+                "confidence": 0.6,
+                "polarity": "positive"
+            },
+            "type": "Location"
+        }
+    ]
+}

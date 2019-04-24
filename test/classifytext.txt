@@ -1,0 +1,8 @@
+In 2015, when we last published an article about top Games Application Programming Interfaces, or APIs, the video game industry was worth about $91.5 billion. In 2019, the market value is expected to be closer to $151 billion. It's no wonder the Games category on ProgrammableWeb is such a popular place for developers and site visitors.
+
+Games APIs can be used to create specific game-related third-party applications and retrieve data, accounts, statistics, and analysis, and manage players, subscriptions, game parts, rewards, events, maps, guilds, and so much more. They can also be used for augmented reality (AR) and virtual reality (VR) game creation, betting card game interaction, and game database management.
+
+Developers wishing to enhance gaming experiences can find hundreds of Games APIs in ProgrammableWeb's directory. Here is a list of 10 notable video game—and game-related—APIs, as chosen to be worthy of tracking by ProgrammableWeb members.
+
+1. EVE Online ESI
+EVE Online is a futuristic online game set in space. Players explore over 7,000 star systems, cast as elite spaceship pilots, where they can wage cosmic war, discover new worlds, and create new economic ventures. The EVE ESI (EVE Swagger Interface) APITrack this API is the official RESTful API for EVE third-party development. It encompasses three ESI environments: an esi-dev, esi-test, and the production esi.
